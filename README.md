@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm interested in learning more about Python and C and way to apply them to solve engineering problems. Working on classes to complete an Aerospace Engineering degree. On of my hobbies is martial arts.
+
+Email: marmaras@iastate.edu
+
 <!--
 **marmarasb/marmarasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
